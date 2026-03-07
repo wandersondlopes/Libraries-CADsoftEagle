@@ -1,4 +1,4 @@
-#     Libraries-CADsoftEagle
+#     Libraries CADsoftEagle
 
 Componentes:
 
